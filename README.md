@@ -13,7 +13,7 @@ Here are some of the work I've done in the group:
  - [Logistic Regression](https://github.com/Data-Aqa/trilha-ciencia-de-dados/tree/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/regressoes%20regularizadas);
 
 ---
-I'm looking to contribute with Open Source projects. I am very interested in envoirmental issues (deforestation, GHG's emissions, etc.) and geospatial analysis.
+I'm looking to contribute in Open Source projects on data science and software engineering. I am very interested in envoirmental issues (deforestation, GHG's emissions, etc.) and geospatial analysis.
 
 You can find my Linkedin page [here](www.linkedin.com/in/fernando-gioppato).
 
