@@ -10,7 +10,7 @@ Here are some of the work I've done in the group:
  - [Descriptive Statistics](https://github.com/Data-Aqa/trilha-ciencia-de-dados/tree/main/estatistica/estatistica%20descritiva);
  - [Hyposthesis Tests - the T-Test](https://github.com/Data-Aqa/trilha-ciencia-de-dados/tree/main/estatistica/testes%20de%20hipotese/teste_t);
  - [Regularized Regressions - Lasso and Ridge](https://github.com/Data-Aqa/trilha-ciencia-de-dados/tree/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/regressoes%20regularizadas);
- - [Logistic Regression](https://github.com/Data-Aqa/trilha-ciencia-de-dados/tree/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/regressoes%20regularizadas);
+ - [Logistic Regression](https://github.com/Data-Aqa/trilha-ciencia-de-dados/tree/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20classificacao/regressao%20logistica).
 
 ---
 I'm looking to contribute in Open Source projects on data science and software engineering. I am very interested in envoirmental issues (deforestation, GHG's emissions, etc.) and geospatial analysis.
